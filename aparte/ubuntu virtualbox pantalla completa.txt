@@ -1,0 +1,1 @@
+sudo ./VBoxLinuxAdditions.run ('sudo ./VB	L' komandu sartute lortu ahal da hori, eta birtualboxen instalauneko edozein sistematan balixo dau)
